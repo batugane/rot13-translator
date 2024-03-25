@@ -18,7 +18,7 @@ To get the translator running on your local machine, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd maven-to-gradle
+   cd rot13-translator
    ```
 
 3. Install dependencies:
